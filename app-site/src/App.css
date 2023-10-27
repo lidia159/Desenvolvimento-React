@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.campo {
+margin: 0;
+padding: 2rem;
+box-shadow: 1px 1px rgb(250, 85, 200) ;
+background-color: rgb(245, 213, 234);
+}
+
+.btn:hover{
+  box-shadow: 1px 1px rgb(248, 139, 157);
+  background-color: rgb(247, 183, 238);
+  
+}
